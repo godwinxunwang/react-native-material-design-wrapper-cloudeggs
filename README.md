@@ -17,7 +17,7 @@ _Note: It's possible that the instructions on the react-native-vector-icons page
 Import any required components into your project, for example:
 
 ```
-import { Button, Card } from 'react-native-material-design';
+import { Button, Card } from 'react-native-material-design-wrapper-cloudeggs';
 ```
 
 > You may need to restart your packager in order for the icons to render.
